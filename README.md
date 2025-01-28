@@ -44,10 +44,6 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ---
 
-
-
----
-
 ## My Skills
 
 ✅ **Programming & Databases:**  
