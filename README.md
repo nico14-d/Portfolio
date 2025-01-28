@@ -3,24 +3,22 @@
 ## About Me
 Hey, great to see you here!
 
-Welcome  to  my  portfolio!  My  name  is Nicola, and I’m  an engineer with a passion for data analysis. My career path has been quite unconventional – I started 
-as a construction engineer and later transitioned into project management, overseeing multiple investment projects in the gas industry. Throughout my career, 
-I’ve managed projects of various budgets, ranging from 20,000 – 250,000 PLN, with some exceeding 2,000,000 PLN.
+Welcome to my portfolio! My name is Nicola, and I’m an engineer with a passion for data analysis and problem-solving. My career path has been quite unconventional – I started as a construction engineer and later transitioned into project management, leading multiple investment projects in the gas industry. I had the opportunity to manage various projects, including large-scale initiatives co-financed by the European Union.
 
-I've always been fascinated by numbers, analysis, and making data-driven decisions. Last year, I decided to follow this passion and transition into the 
-world of Data Analytics & Data Science. Since then, I’ve been actively learning new skills, completing courses, participating in internships, and working 
-on real-world data projects.
+I have always been fascinated by numbers, patterns, and data-driven decision-making. Whether optimizing workflows, analyzing project efficiency, or finding insights in complex datasets, I found myself naturally drawn to analytical challenges. This passion led me to transition into Data Analytics & Data Science, where I could fully leverage my technical background and problem-solving skills.
 
-To further enhance my expertise, I have enrolled in a postgraduate program in *Data Science: Advanced Data Analytics* at the Wrocław University of Economics.
+Since making this shift, I have been actively expanding my expertise—completing specialized courses, working on real-world data projects, and gaining hands-on experience with SQL, Python, and statistical modeling. To deepen my knowledge even further, I have enrolled in a postgraduate program in Data Science: Advanced Data Analytics at the Wrocław University of Economics.
+Why Data?
 
+I enjoy the process of extracting valuable insights from raw data, transforming complex information into meaningful solutions. Whether through statistical analysis, machine learning models, or data visualization, I thrive on uncovering patterns that drive better decision-making.
+Key Strengths
 
-✅ **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.  
-✅ **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level.  
-✅ **Continuous learning & development** – Hands-on experience gained from self-driven projects and **Google Data Analytics Professional Certificate**.  
+✅ Strong technical background & analytical thinking – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.
+✅ Teaching complex concepts in a simple way – 10+ years of experience teaching Fluid Mechanics at the academic level, helping students grasp complex technical concepts.
+✅ Continuous learning & development – Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate, constantly refining my skills.
+Beyond Data
 
-
-When I’m not working with numbers, you’ll probably find me **hiking in the mountains** or **practicing calisthenics**.  
-I also love **reading popular science books** and **watching snooker matches**, analyzing player strategies.  
+Outside of analytics, I’m passionate about hiking in the mountains, practicing calisthenics, and exploring new technologies. I also love reading popular science books and watching snooker matches, analyzing player strategies just as I would a dataset.
 
 ---
 
