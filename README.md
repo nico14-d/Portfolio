@@ -14,31 +14,33 @@ on real-world data projects.
 To further enhance my expertise, I have enrolled in a postgraduate program in *Data Science: Advanced Data Analytics* at the Wrocław University of Economics.
 
 
-
 ✅ **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.  
 ✅ **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level.  
 ✅ **Continuous learning & development** – Hands-on experience gained from self-driven projects and **Google Data Analytics Professional Certificate**.  
 
+
+When I’m not working with numbers, you’ll probably find me **hiking in the mountains** or **practicing calisthenics**.  
+I also love **reading popular science books** and **watching snooker matches**, analyzing player strategies.  
+
 ---
 
-# Table of Contents
+## Table of Contents
 
 - [About Me](#about-me)
-- [Portfolio Projects](#portfolio-projects)
-  - **Python**
-    - *(Work in progress – new projects coming soon!)*
+- [My Skills](#my-skills)
+- [Projects](#projects)
   - **SQL**
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
   - **R**
     - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
+  - **Python**
+    - *(Work in progress – new projects coming soon!)*
+  - **Excel / Google Sheets**
+    - *(Currently working on Excel-based analytics projects!)*
   - **Academic Research**
     - [Master's Thesis](#masters-thesis)
     - [Bachelor's Thesis](#bachelors-thesis)
-  - **Excel / Google Sheets**
-    - *(Currently working on Excel-based analytics projects!)*
-  - **Power BI**
-- [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -63,12 +65,14 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ## Projects
 
-### **R**
-- **Cyclistic Bike Share Analysis:** *Data-driven insights for business growth using R and data visualization tools.*
-
 ### **SQL**
 - **MuseumDB:** *A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.*
 - **OutdoorConnect:** *A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.*
+
+
+### **R**
+- **Cyclistic Bike Share Analysis:** *Data-driven insights for business growth using R and data visualization tools.*
+
 
 ### **Academic Research**
 - **Master's Thesis:** *Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.*
@@ -76,10 +80,17 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ---
 
-## Outside of Data…
+## Certificates
 
-When I’m not working with numbers, you’ll probably find me **hiking in the mountains** or **practicing calisthenics**.  
-I also love **reading popular science books** and **watching snooker matches**, analyzing player strategies.  
+- Google Data Analytics
+- Data Analytics Engineering
+- SQL Associate by datacamp
+- SQL for Data Science
+- Data Analyst with R by datacamp
+- Google Cloud Platform Big Data and Machine Learning Fundamentals
+- Excel/VBA for Creative Problem Solving
+- Basic Statistics
+
 
 ---
 
