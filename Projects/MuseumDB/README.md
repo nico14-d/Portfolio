@@ -24,11 +24,11 @@ The primary goal was to design a conceptual, logical, and physical model and imp
 
 ## Key Features & Technologies:
 
-✔ Conceptual, Logical & Physical Modeling – Database structure optimized for museum data storage.
-✔ PostgreSQL Implementation – Tables, relationships, constraints, PKs & FKs.
-✔ Data Integrity & Duplication Control – Constraints and unique checks for data consistency.
-✔ Dynamic Data Population – SQL scripts that prevent duplicates and ensure referential integrity.
-✔ Stored Functions & Queries – Additional SQL functions for museum-related operations.
+- Conceptual, Logical & Physical Modeling – Database structure optimized for museum data storage.
+- PostgreSQL Implementation – Tables, relationships, constraints, PKs & FKs.
+- Data Integrity & Duplication Control – Constraints and unique checks for data consistency.
+- Dynamic Data Population – SQL scripts that prevent duplicates and ensure referential integrity.
+- Stored Functions & Queries – Additional SQL functions for museum-related operations.
 
 ## Core Database Components:
 
