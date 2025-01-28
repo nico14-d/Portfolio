@@ -8,6 +8,7 @@ Welcome to my portfolio! My name is Nicola, and I’m an engineer with a passion
 I have always been fascinated by numbers, patterns, and data-driven decision-making. Whether optimizing workflows, analyzing project efficiency, or finding insights in complex datasets, I found myself naturally drawn to analytical challenges. This passion led me to transition into Data Analytics & Data Science, where I could fully leverage my technical background and problem-solving skills.
 
 Since making this shift, I have been actively expanding my expertise—completing specialized courses, working on real-world data projects, and gaining hands-on experience with SQL, Python, and statistical modeling. To deepen my knowledge even further, I have enrolled in a postgraduate program in Data Science: Advanced Data Analytics at the Wrocław University of Economics.
+
 Why Data?
 
 I enjoy the process of extracting valuable insights from raw data, transforming complex information into meaningful solutions. Whether through statistical analysis, machine learning models, or data visualization, I thrive on uncovering patterns that drive better decision-making.
