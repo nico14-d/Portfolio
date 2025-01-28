@@ -14,23 +14,23 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ## **Table of Contents**
 
-- [About Me](#about-me)
-- [Portfolio Projects](#portfolio-projects)
-  - [Python](#python)
-    - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
-  - [SQL](#sql)
-    - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
-    - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
-  - [R](#r)
-    - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis-r)
-  - [Academic Research](#academic-research)
-    - [Master's Thesis](#masters-thesis)
-    - [Bachelor's Thesis](#bachelors-thesis)
-  - [Excel / Google Sheets](#excel--google-sheets)
-  - [Power BI](#power-bi)
-- [Education](#education)
-- [Certificates](#certificates)
-- [Contact](#contact)
+- [About Me](https://github.com/nico14-d/Portfolio/blob/main/README.md#about-me)
+- [Portfolio Projects](https://github.com/nico14-d/Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
+    - [Cyclistic Bike Share Analysis](https://github.com/nico14-d/Portfolio/blob/main/README.md#cyclistic-bike-share-analysis)
+  - SQL
+    - [MuseumDB: Mini Database for Museum Management](https://github.com/nico14-d/Portfolio/blob/main/README.md#museumdb-mini-database-for-museum-management)
+    - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](https://github.com/nico14-d/Portfolio/blob/main/README.md#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
+  - R
+    - [Cyclistic Bike Share Analysis](https://github.com/nico14-d/Portfolio/blob/main/README.md#cyclistic-bike-share-analysis-r)
+  - Academic Research
+    - [Master's Thesis](https://github.com/nico14-d/Portfolio/blob/main/README.md#masters-thesis)
+    - [Bachelor's Thesis](https://github.com/nico14-d/Portfolio/blob/main/README.md#bachelors-thesis)
+  - [Excel / Google Sheets](https://github.com/nico14-d/Portfolio/blob/main/README.md#excel--google-sheets)
+  - [Power BI](https://github.com/nico14-d/Portfolio/blob/main/README.md#power-bi)
+- [Education](https://github.com/nico14-d/Portfolio/blob/main/README.md#education)
+- [Certificates](https://github.com/nico14-d/Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/nico14-d/Portfolio/blob/main/README.md#contact)
 
 ---
 
@@ -44,13 +44,13 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ## **Portfolio Projects**
 
-### **Python**
+### Python
 #### Cyclistic Bike Share Analysis
 Data-driven insights for business growth using R and data visualization tools.
 
 ---
 
-### **SQL**
+### SQL
 #### MuseumDB: Mini Database for Museum Management
 A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.
 
@@ -59,13 +59,13 @@ A fully relational database for an outdoor sports social platform, including use
 
 ---
 
-### **R**
+### R
 #### Cyclistic Bike Share Analysis
 Data-driven insights for business growth using R and data visualization tools.
 
 ---
 
-### **Academic Research**
+### Academic Research
 #### Master's Thesis
 Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.
 
