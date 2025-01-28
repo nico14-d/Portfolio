@@ -1,5 +1,7 @@
+# Nicola Dudziński Portfolio
 
-👋 Hey, great to see you here!
+## About Me
+Hey, great to see you here!
 
 Welcome to my portfolio! My name is Nicola, and I’m an engineer with a passion for data analysis. My career path has been quite unconventional – I started 
 as a construction engineer and later transitioned into project management, overseeing multiple investment projects in the gas industry. Throughout my career, 
@@ -10,6 +12,12 @@ world of Data Analytics & Data Science. Since then, I’ve been actively learnin
 on real-world data projects.
 
 To further enhance my expertise, I have enrolled in a postgraduate program in *Data Science: Advanced Data Analytics* at the Wrocław University of Economics.
+
+
+
+✅ **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.  
+✅ **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level.  
+✅ **Continuous learning & development** – Hands-on experience gained from self-driven projects and **Google Data Analytics Professional Certificate**.  
 
 ---
 
@@ -36,11 +44,7 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ---
 
-## About Me
 
-✅ **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.  
-✅ **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level.  
-✅ **Continuous learning & development** – Hands-on experience gained from self-driven projects and **Google Data Analytics Professional Certificate**.  
 
 ---
 
