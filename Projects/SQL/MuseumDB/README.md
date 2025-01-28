@@ -17,12 +17,12 @@ The primary goal was to design a conceptual, logical, and physical model and imp
 
 ## Core Database Components:
 
-    Inventory - Museum collection with acquisition details and estimated value.
-    Exhibitions - Thematic displays of artifacts with curator assignments.
-    Exhibition Items - Bridge table linking exhibits with their respective exhibitions.
-    Employees - Museum staff database, including curators and other personnel.
-    Visitors & Tickets - System for tracking ticket purchases and visitor attendance.
-    SQL Functions - Custom stored procedures for updating records and managing transactions.
+Inventory - Museum collection with acquisition details and estimated value.
+Exhibitions - Thematic displays of artifacts with curator assignments.
+Exhibition Items - Bridge table linking exhibits with their respective exhibitions.
+Employees - Museum staff database, including curators and other personnel.
+Visitors & Tickets - System for tracking ticket purchases and visitor attendance.
+SQL Functions - Custom stored procedures for updating records and managing transactions.
 
 
 This model serves as a **foundation for museum data management**. It can be **expanded with additional tables** (e.g., donor information, maintenance logs, and event planning) to support more complex museum operations.
