@@ -36,7 +36,7 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ---
 
-## 📌 About Me
+## About Me
 
 ✅ **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.  
 ✅ **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level.  
@@ -44,7 +44,7 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ---
 
-## 🏆 My Skills
+## My Skills
 
 ✅ **Programming & Databases:**  
    - **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
@@ -61,31 +61,31 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### **📊 R**
+### **R**
 - **Cyclistic Bike Share Analysis:** *Data-driven insights for business growth using R and data visualization tools.*
 
-### **🛢️ SQL**
+### **SQL**
 - **MuseumDB:** *A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.*
 - **OutdoorConnect:** *A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.*
 
-### **📖 Academic Research**
+### **Academic Research**
 - **Master's Thesis:** *Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.*
 - **Bachelor's Thesis:** *Analysis of sluice gate capacity for irrigation water intakes.*
 
 ---
 
-## 🏋️‍♂️ Outside of Data…
+## Outside of Data…
 
 When I’m not working with numbers, you’ll probably find me **hiking in the mountains** or **practicing calisthenics**.  
 I also love **reading popular science books** and **watching snooker matches**, analyzing player strategies.  
 
 ---
 
-## 📬 Contact
+## Contact
 
-📧 Email: nicola.dudzinski@gmail.com  
-💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nicola-dudzinski/)  
+Email: nicola.dudzinski@gmail.com  
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nicola-dudzinski/)  
 
 Thanks for stopping by! If you'd like to chat about data analytics, projects, or just share experiences – feel free to reach out! 😊
