@@ -15,7 +15,7 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 # Table of Contents
 
-- [About](#about-me)
+- [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - **Python**
     - *(Work in progress – new projects coming soon!)*
