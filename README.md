@@ -3,7 +3,7 @@
 ## About Me
 Hey, great to see you here!
 
-Welcome to my portfolio! My name is Nicola, and I’m an engineer with a passion for data analysis. My career path has been quite unconventional –                        I started 
+Welcome to my portfolio! My name is Nicola, and I’m  an engineer with a passion for data analysis. My career path has been quite unconventional – I started 
 as a construction engineer and later transitioned into project management, overseeing multiple investment projects in the gas industry. Throughout my career, 
 I’ve managed projects of various budgets, ranging from 20,000 – 250,000 PLN, with some exceeding 2,000,000 PLN.
 
