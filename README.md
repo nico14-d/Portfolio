@@ -31,10 +31,10 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 - [My Skills](#my-skills)
 - [Projects](#projects)
   - **SQL**
-    - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management-📂)
-    - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts-📂)
+    - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
+    - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
   - **R**
-    - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis-📂)
+    - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
   - **Python**
     - *(Work in progress – new projects coming soon!)*
   - **Excel / Google Sheets**
@@ -68,11 +68,11 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 ## Projects
 
 ### **SQL**
-#### MuseumDB: Mini Database for Museum Management 📂
+#### MuseumDB: Mini Database for Museum Management
 *A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.*  
 **Code:** [`MuseumDB Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB)
 
-#### OutdoorConnect: Social Media Database for Outdoor Enthusiasts 📂
+#### OutdoorConnect: Social Media Database for Outdoor Enthusiasts
 *A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.*  
 **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnect)
 
