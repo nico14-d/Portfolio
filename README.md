@@ -31,7 +31,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 - [My Skills](#my-skills)
 - [Projects](#projects)
   - **SQL**
-    - [MuseumDB:]: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
+    - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
   - **R**
     - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
