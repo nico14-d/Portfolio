@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project presents a mini relational database for museum management, developed as part of an internship project within a strict two-day deadline. 
+This project presents a mini relational database for museum management. 
 The primary goal was to design a conceptual, logical, and physical model and implement a fully functional PostgreSQL database that efficiently manages museum collections and exhibits.
 
 ## Key Features & Technologies:
