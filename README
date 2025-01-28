@@ -1,4 +1,4 @@
-👋 Hey, great to see you here!
+# Hey, great to see you here!
 
 Welcome to my portfolio! My name is Nicola, and I’m an engineer with a passion for data analysis. My career path has been quite unconventional – 
 I started as a construction engineer and later transitioned into project management, overseeing multiple investment projects in the gas industry. 
@@ -12,108 +12,112 @@ To further enhance my expertise, I have enrolled in a postgraduate program in *D
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-  - **Python**
-    - *(Work in progress – new projects coming soon!)*
-  - **SQL**
+  - [Python](#python)
+    - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
+  - [SQL](#sql)
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
-  - **R**
-    - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
-  - **Academic Research**
+  - [R](#r)
+    - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis-r)
+  - [Academic Research](#academic-research)
     - [Master's Thesis](#masters-thesis)
     - [Bachelor's Thesis](#bachelors-thesis)
-  - **Excel / Google Sheets**
-    - *(Currently working on Excel-based analytics projects!)*
-  - **Power BI**
+  - [Excel / Google Sheets](#excel--google-sheets)
+  - [Power BI](#power-bi)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
 ---
 
-## 📌 About Me
+## About Me
 
-✅ **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.  
-✅ **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level.  
-✅ **Continuous learning & development** – Hands-on experience gained from self-driven projects and **Google Data Analytics Professional Certificate**.  
-
----
-
-## 🏆 My Skills
-
-✅ **Programming & Databases:**  
-   - **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
-   - **SQL** (PostgreSQL, PL/pgSQL)  
-   - **R** (Tidyverse, ggplot2)  
-
-✅ **BI & Data Visualization:**  
-   - **Excel (VBA)**  
-
-✅ **Statistics & Data Analysis:**  
-   - Data exploration  
-   - Optimization  
-   - Decision modeling  
+Strong technical background & analytical thinking – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.  
+Teaching complex concepts in a simple way – 10+ years of experience teaching Fluid Mechanics at the academic level.  
+Continuous learning & development – Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate.  
 
 ---
 
-## 🚀 Portfolio Projects
+## My Skills
 
-### 🐍 Python
-#### *(Work in progress – new projects coming soon!)*
+Programming & Databases:  
+- Python (Pandas, NumPy, Seaborn, Matplotlib)  
+- SQL (PostgreSQL, PL/pgSQL)  
+- R (Tidyverse, ggplot2)  
+
+BI & Data Visualization:  
+- Excel (VBA)  
+
+Statistics & Data Analysis:  
+- Data exploration  
+- Optimization  
+- Decision modeling  
 
 ---
 
-### 🛢️ SQL
+## Portfolio Projects
+
+### Python
+#### Cyclistic Bike Share Analysis
+Data-driven insights for business growth using R and data visualization tools.
+
+---
+
+### SQL
 #### MuseumDB: Mini Database for Museum Management
-*A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.*
+A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.
 
 #### OutdoorConnect: Social Media Database for Outdoor Enthusiasts
-*A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.*
+A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.
 
 ---
 
-### 📊 R
+### R
 #### Cyclistic Bike Share Analysis
-*Data-driven insights for business growth using R and data visualization tools.*
+Data-driven insights for business growth using R and data visualization tools.
 
 ---
 
-### 📖 Academic Research
+### Academic Research
 #### Master's Thesis
-*Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.*
+Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.
 
 #### Bachelor's Thesis
-*Analysis of sluice gate capacity for irrigation water intakes.*
+Analysis of sluice gate capacity for irrigation water intakes.
 
 ---
 
-## 🎓 Education
-- **Master's Degree** - Gas Engineering, Warsaw University of Technology  
-- **Postgraduate Studies (Ongoing)** - *Data Science: Advanced Data Analytics, Wrocław University of Economics*
+## Excel / Google Sheets
+Currently working on Excel-based analytics projects!
 
 ---
 
-## 📜 Certificates
-- **Google Data Analytics Professional Certificate**
-- **Google Advanced Data Analytics Certificate**
-- *(More coming soon...)*
+## Power BI
+Work in progress!
 
 ---
 
-## 🏋️‍♂️ Outside of Data…
+## Education
 
-When I’m not working with numbers, you’ll probably find me **hiking in the mountains** or **practicing calisthenics**.  
-I also love **reading popular science books** and **watching snooker matches**, analyzing player strategies.  
+- Master's Degree - Gas Engineering, Warsaw University of Technology  
+- Postgraduate Studies (Ongoing) - Data Science: Advanced Data Analytics, Wrocław University of Economics  
 
 ---
 
-## 📬 Contact
+## Certificates
 
-📧 Email: nicola.dudzinski@gmail.com  
-💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nicola-dudzinski/)  
+- Google Data Analytics Professional Certificate  
+- Google Advanced Data Analytics Certificate  
 
-Thanks for stopping by! If you'd like to chat about data analytics, projects, or just share experiences – feel free to reach out! 😊
+---
+
+## Contact
+
+Email: nicola.dudzinski@gmail.com  
+LinkedIn: [Nicola Dudzinski](https://www.linkedin.com/in/nicola-dudzinski/)  
+
+Thanks for stopping by! If you'd like to chat about data analytics, projects, or just share experiences – feel free to reach out!
