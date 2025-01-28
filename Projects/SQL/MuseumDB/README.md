@@ -8,17 +8,21 @@ The primary goal was to design a conceptual, logical, and physical model and imp
 
 ## Key Features & Technologies:
 
-- Conceptual, Logical & Physical Modeling – Database structure optimized for museum data storage.
-- PostgreSQL Implementation – Tables, relationships, constraints, PKs & FKs.
-- Data Integrity & Duplication Control – Constraints and unique checks for data consistency.
-- Dynamic Data Population – SQL scripts that prevent duplicates and ensure referential integrity.
-- Stored Functions & Queries – Additional SQL functions for museum-related operations.
+- **PostgreSQL Database Implementation** – Includes well-defined **tables, relationships, constraints, primary & foreign keys**.  
+- **Inventory & Exhibition Management** – Tracks historical items and associates them with museum **exhibitions**.  
+- **Employee & Curator Records** – Stores information about museum staff, such as **curators and guides**.  
+- **Visitor & Ticketing System** – Manages ticket purchases and visitor attendance using a relational model.  
+- **Data Integrity & Duplication Control** – Implements **constraints and validation rules** to ensure consistency.  
+- **Stored Functions & Queries** – Custom SQL **procedures** for data updates and ticket transactions.  
 
 ## Core Database Components:
 
-    Artifacts – List of museum exhibits with descriptions and historical details.
-    Collections – Groups of related artifacts curated by the museum.
-    Exhibitions – Temporary or permanent museum exhibitions.
-    Visitors & Tickets – Information on museum guests and ticket purchases.
-    Staff & Roles – Employee database with assigned roles.
-    Functions & Queries – Custom SQL functions for museum operations.
+    Inventory - Museum collection with acquisition details and estimated value.
+    Exhibitions - Thematic displays of artifacts with curator assignments.
+    Exhibition Items - Bridge table linking exhibits with their respective exhibitions.
+    Employees - Museum staff database, including curators and other personnel.
+    Visitors & Tickets - System for tracking ticket purchases and visitor attendance.
+    SQL Functions - Custom stored procedures for updating records and managing transactions.
+
+
+This model serves as a **foundation for museum data management**. It can be **expanded with additional tables** (e.g., donor information, maintenance logs, and event planning) to support more complex museum operations.
