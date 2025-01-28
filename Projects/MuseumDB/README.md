@@ -1,21 +1,5 @@
 # MuseumDB: Mini Database for Museum Management
 
-## Overview
-This project is a relational database model designed for managing museum collections, exhibits, and visitors. 
-It includes entity relationships, SQL scripts for database creation, and sample queries.
-
-## Features
-- Conceptual, logical, and physical data models
-- PostgreSQL-based database schema
-- SQL queries for data manipulation and reporting
-
-
-## How to Use
-1. Run `museum_db.sql` to create the database structure.
-2. Use `additional_script.sql` to populate the database with sample data.
-
-
-
 
 ## Project Overview
 
