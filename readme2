@@ -1,19 +1,22 @@
 # Table of Contents
 
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-  - **Python**
-    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](#tech-store-sales-analysis)
-  - **SQL**
-    - [Covid 19 Data Exploration](#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
-  - **R**
-    - [Legendary Pokémon Analysis (Study Project)](#legendary-pokemon-analysis-study-project)
-  - **Excel / Google Sheets**
-  - **Tableau**
-    - [Go to Tableau](#go-to-tableau)
-  - **Power BI**
-- [Education](#education)
-- [Certificates](#certificates)
-- [Contact](#contact)
+- [About Me](#about-me)
+- [Projects](#projects)
+  - [SQL](#sql)
+    - [Sample SQL Project](#sample-sql-project)
+
+---
+
+# About Me
+
+Hi, I'm Bla Bla Bla. I am passionate about data analysis and enjoy working on real-world projects. My background is in engineering, and I am transitioning into the field of data science.
+
+---
+
+# Projects
+
+## SQL
+
+### Sample SQL Project
+
+This project involves designing a relational database for managing company inventory. It includes schema design, data normalization, and SQL queries for data retrieval.
