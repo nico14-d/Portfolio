@@ -12,6 +12,7 @@ Since making this shift, I have been actively expanding my expertise—completin
 Why Data?
 
 I enjoy the process of extracting valuable insights from raw data, transforming complex information into meaningful solutions. Whether through statistical analysis, machine learning models, or data visualization, I thrive on uncovering patterns that drive better decision-making.
+
 Key Strengths
 
 - **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.
