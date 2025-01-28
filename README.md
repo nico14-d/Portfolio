@@ -14,9 +14,9 @@ Why Data?
 I enjoy the process of extracting valuable insights from raw data, transforming complex information into meaningful solutions. Whether through statistical analysis, machine learning models, or data visualization, I thrive on uncovering patterns that drive better decision-making.
 Key Strengths
 
-✅ Strong technical background & analytical thinking – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.
-✅ Teaching complex concepts in a simple way – 10+ years of experience teaching Fluid Mechanics at the academic level, helping students grasp complex technical concepts.
-✅ Continuous learning & development – Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate, constantly refining my skills.
+- **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.
+- **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level, helping students grasp complex technical concepts.
+- **Continuous learning & development** – Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate, constantly refining my skills.
 Beyond Data
 
 Outside of analytics, I’m passionate about hiking in the mountains, practicing calisthenics, and exploring new technologies. I also love reading popular science books and watching snooker matches, analyzing player strategies just as I would a dataset.
