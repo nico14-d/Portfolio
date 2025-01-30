@@ -82,7 +82,11 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 
 ### **R**
-- **Cyclistic Bike Share Analysis:** *Data-driven insights for business growth using R and data visualization tools.*
+  - ### *Cyclistic Bike Share Analysis:*
+
+    Data-driven insights for business growth using R and data visualization tools.
+
+    **Code:**
 
 
 ### **Academic Research**
