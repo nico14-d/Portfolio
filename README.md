@@ -68,7 +68,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 ## Projects
 
 ### **SQL**
-  - ### MuseumDB: Mini Database for Museum Management
+  - ### *MuseumDB: Mini Database for Museum Management*
 
     A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.
 
