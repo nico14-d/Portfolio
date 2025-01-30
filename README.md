@@ -74,11 +74,11 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
     **Code:** [`MuseumDB Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB)
 
-#### OutdoorConnect: Social Media Database for Outdoor Enthusiasts
+  - ### *OutdoorConnect: Social Media Database for Outdoor Enthusiasts*
 
-A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.
+    A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.
 
-**Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnect)
+    **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnect)
 
 
 ### **R**
