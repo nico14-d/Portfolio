@@ -33,6 +33,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
   - **SQL**
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
+    - [DVDRental: DML, TCL Operations designed for the DVDRental database](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental)
   - **R**
     - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
   - **Python**
@@ -79,6 +80,12 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.
 
     **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnect)
+
+  - ### *DVDRental: DML, TCL Operations designed for the DVDRental database*
+
+    **Code:** [`DVDRental`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental)
+
+    
 
 
 ### **R**
