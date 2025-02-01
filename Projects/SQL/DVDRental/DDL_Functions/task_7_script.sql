@@ -1,4 +1,4 @@
--- Task 3: Create a Function - Get Most Popular Films by Country
+-- Task 7: Create a Function - Get Most Popular Films by Country
 
 -- The function retrieves the most popular films in each country based on rental frequency.
 -- It allows querying multiple countries at once using a text array parameter.
