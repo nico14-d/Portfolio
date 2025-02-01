@@ -15,42 +15,28 @@ The goal is to analyze rental data, manage transactions, and ensure data consist
 
 ## **Core SQL Queries & Transactions**  
 
-### **Data Analysis (`DML`)**
+### Data Analysis (DML)
 - **Top 5 Most Rented Movies and Expected Audience Age**  
-  - Identifies the **five most rented movies** and determines their expected audience age using **the Motion Picture Association film rating system**.  
-  - Uses **CTEs**, `RANK()`, and `FETCH FIRST 5 ROWS WITH TIES` to handle ranking and ties efficiently.  
+  - Identifies the five most rented movies and determines their expected audience age using the Motion Picture Association film rating system.  
+  - Uses CTEs, `RANK()`, and `FETCH FIRST 5 ROWS WITH TIES` to handle ranking and ties efficiently.  
 
 - **Revenue Earned by Each Rental Store Since March 2017**  
-  - Calculates **total rental revenue per store** since **March 2017** using `SUM()`.  
-  - Uses **joins between payment, rental, inventory, and store tables**.  
-  - Applies `COALESCE()` to handle **NULL values** in addresses.  
+  - Calculates total rental revenue per store since March 2017 using `SUM()`.  
+  - Uses joins between payment, rental, inventory, and store tables.  
+  - Applies `COALESCE()` to handle NULL values in addresses.  
 
 - **Animation Movies (2017-2019) with a Rental Rate Greater than 1**  
-  - Retrieves **all animation movies released between 2017-2019** with **a rental rate greater than 1**.  
-  - Implements **two approaches**: using **JOINs** and **subqueries** to demonstrate different querying techniques.  
+  - Retrieves all animation movies released between 2017-2019 with a rental rate greater than 1.  
+  - Implements two approaches: using `JOINs` and subqueries to demonstrate different querying techniques.  
 
-### **Transaction Management (`TCL`)**
+### Transaction Management (TCL)
 - **Rent Favorite Movies and Process Payment**  
-  - Simulates a **movie rental process** where a customer rents movies and makes a payment.  
-  - Uses **a transaction (`BEGIN; COMMIT;`)** to ensure that **rentals and payments are processed together**.  
-  - Dynamically retrieves **inventory, customer, and staff data** using **CTEs**.  
-  - Uses **`WHERE NOT EXISTS`** to prevent duplicate records.  
+  - Simulates a movie rental process where a customer rents movies and makes a payment.  
+  - Uses a transaction (`BEGIN; COMMIT;`) to ensure that rentals and payments are processed together.  
+  - Dynamically retrieves inventory, customer, and staff data using CTEs.  
+  - Uses `WHERE NOT EXISTS` to prevent duplicate records.  
 
 ## **How to Run the Scripts?**  
 
 The queries are designed for **PostgreSQL** and can be executed in any SQL environment that supports PostgreSQL syntax.  
 
-### **Step-by-Step Execution**
-1. Ensure the **dvdrental database** is loaded in PostgreSQL.  
-2. Use a database management tool such as **pgAdmin, DBeaver, or psql**.  
-3. Run the relevant scripts depending on the use case:  
-   - **For data analysis (`DML`)**:  
-     ```sql
-     SELECT * FROM top_5_most_rented_movies();
-     ```
-   - **For transactions (`TCL`)**:  
-     ```sql
-     BEGIN;
-     -- Rental transaction script
-     COMMIT;
-     ```  
