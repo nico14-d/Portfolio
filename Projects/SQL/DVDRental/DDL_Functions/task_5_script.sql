@@ -1,4 +1,4 @@
--- Task 1: Create a View - Sales Revenue by Category and Quarter
+-- Task 5: Create a View - Sales Revenue by Category and Quarter
 
 -- Solution 1: Using a Standard Query
 CREATE OR REPLACE VIEW public.sales_revenue_by_category_qtr AS
