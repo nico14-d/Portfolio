@@ -33,7 +33,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
   - **SQL**
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
-    - [DVDRental: DML, TCL, DDL and functions designed for the DVDRental database](#DML-TCL-DDL-and-functions)
+    - [DVDRental: DML, TCL, DDL and functions designed for the DVDRental database](#DVDRental-DML-TCL-DDL-and-functions-designed-for-the-DVDRental-database)
   - **R**
     - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
   - **Python**
