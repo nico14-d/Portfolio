@@ -1,4 +1,4 @@
-# Task 1: Animation Movies (2017-2019)
+# Task 4: Animation Movies (2017-2019)
 
 ## Approach
 This task retrieves all animation movies released between 2017 and 2019 with a rental rate greater than 1.
