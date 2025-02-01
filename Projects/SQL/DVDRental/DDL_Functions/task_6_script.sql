@@ -1,4 +1,4 @@
--- Task 2: Create a Function - Get Sales Revenue by Category and Quarter
+-- Task 6: Create a Function - Get Sales Revenue by Category and Quarter
 
 -- The function retrieves the total sales revenue per category for a specific quarter and year.
 -- The parameter format is QYYYY (e.g., 42024 for Q4 2024, 12025 for Q1 2025).
