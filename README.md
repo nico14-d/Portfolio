@@ -86,7 +86,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
     Data-driven insights for business growth using R and data visualization tools.
 
-    **Code:**
+    **Code:** (https://www.kaggle.com/code/nicolad14/google-data-analytics-capstone-case-study-1)
 
 
 ### **Academic Research**
