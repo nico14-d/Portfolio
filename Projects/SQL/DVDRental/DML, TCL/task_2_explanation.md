@@ -1,4 +1,4 @@
-Task 2: Revenue Earned by Each Rental Store Since March 2017
+# Task 2: Revenue Earned by Each Rental Store Since March 2017
 
 ## Approach
 This task retrieves the total revenue earned by each rental store from March 2017 onwards.
