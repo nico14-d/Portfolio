@@ -6,12 +6,12 @@ The goal is to analyze rental data, manage transactions, and ensure data consist
 
 ## **Key Features & Technologies**  
 
-- **PostgreSQL DML & TCL Queries** – Structured queries utilizing `SELECT`, `INSERT`, `UPDATE`, `DELETE`, and transaction control (`BEGIN`, `COMMIT`, `ROLLBACK`).  
-- **Movie & Rental Analysis** – Queries analyzing **rental revenue, movie popularity, and customer rental behavior**.  
-- **Transaction Management** – Ensures **data integrity using transactions** for operations like renting movies and processing payments.  
-- **Data Aggregation & Filtering** – Uses **`GROUP BY`, `HAVING`, `ORDER BY`** to summarize key insights.  
-- **Handling NULL Values & Data Formatting** – Applies **`COALESCE()`, `STRING_AGG()`** for robust data processing.  
-- **Optimized Queries** – Implements **CTEs (Common Table Expressions)** and **window functions** (`RANK()`, `ROW_NUMBER()`, `FETCH FIRST n ROWS WITH TIES`).  
+- PostgreSQL DML & TCL Queries – Structured queries utilizing `SELECT`, `INSERT`, `UPDATE`, `DELETE`, and transaction control (`BEGIN`, `COMMIT`, `ROLLBACK`).  
+- Movie & Rental Analysis – Queries analyzing **rental revenue, movie popularity, and customer rental behavior**.  
+- Transaction Management – Ensures **data integrity using transactions** for operations like renting movies and processing payments.  
+- Data Aggregation & Filtering – Uses **`GROUP BY`, `HAVING`, `ORDER BY`** to summarize key insights.  
+- Handling NULL Values & Data Formatting – Applies **`COALESCE()`, `STRING_AGG()`** for robust data processing.  
+- Optimized Queries – Implements **CTEs (Common Table Expressions)** and **window functions** (`RANK()`, `ROW_NUMBER()`, `FETCH FIRST n ROWS WITH TIES`).  
 
 ## **Core SQL Queries & Transactions**  
 
