@@ -1,4 +1,4 @@
-# Task 2: Create a Function - Get Sales Revenue by Category and Quarter  
+# Task 6: Create a Function - Get Sales Revenue by Category and Quarter  
 
 ### Approach  
 This task defines a SQL function that retrieves the total sales revenue per film category for a specified quarter and year.  
