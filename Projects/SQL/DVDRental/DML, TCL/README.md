@@ -1,7 +1,7 @@
 # DML & TCL Queries for Data Analysis and Transactions  
 
 ## **Project Overview**  
-This project contains **DML (Data Manipulation Language)** queries and **TCL (Transaction Control Language)** operations designed for the **DVDRental** database.  
+This secion contains **DML (Data Manipulation Language)** queries and **TCL (Transaction Control Language)** operations designed for the **DVDRental** database.  
 The goal is to **analyze rental data, manage transactions, and ensure data consistency**, showcasing expertise in **data retrieval, filtering, aggregation, and transactional integrity**.  
 
 ## **Key Features & Technologies**  
