@@ -80,11 +80,11 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
     **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnect)
 
-  - ### *DVDRental: DML, TCL Operations designed for the DVDRental database*
+  - ### *DVDRental: DML, TCL, DDL and functions designed for the DVDRental database*
 
     **Code:** [`DVDRental`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental)
 
-    
+  - ### 
 
 
 ### **R**
