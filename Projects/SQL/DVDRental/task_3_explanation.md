@@ -31,5 +31,3 @@ This task simulates renting specific movies from the store and processing the co
   - No hardcoded values for `customer_id`, `staff_id`, or `inventory_id`.
 - **CTEs improve readability**  
   - `me` and `rental_data` separate logic for better maintainability.
-
-This method provides a **realistic representation of a rental transaction in a database**, making it a great addition to an SQL portfolio.
