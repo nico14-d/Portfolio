@@ -34,6 +34,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
     - [DVDRental: DML, TCL, DDL and functions designed for the DVDRental database](#DVDRental-DML-TCL-DDL-and-functions-designed-for-the-DVDRental-database)
+    - [Sales History: Window Functions and Frames]
   - **R**
     - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
   - **Python**
@@ -84,7 +85,9 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
     **Code:** [`DVDRental`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental)
 
-  - ### 
+  - ### *Sales History: Window Functions and Frames*
+
+    **Code:** 
 
 
 ### **R**
