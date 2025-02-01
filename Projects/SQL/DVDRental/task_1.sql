@@ -1,4 +1,4 @@
--- Task 3: Top 5 most rented movies and expected audience age
+-- Task 1: Top 5 most rented movies and expected audience age
 
 -- Solution 1: Using CTEs (Your Original Approach)
 WITH ranked_movies AS (
