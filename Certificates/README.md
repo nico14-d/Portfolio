@@ -1,0 +1,3 @@
+Below you can find all certificates I have received after completing different courses, programs and projects:
+- Google Data...
+- 
