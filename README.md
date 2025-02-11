@@ -73,10 +73,10 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     *   Macro development for task automation.
 
 ✅ **Data Warehousing:**
-    * Data Modeling: Star Schema and Snowflake Schema design.
-    * ETL Processes: Implementation of Extract, Transform, Load methodologies.
-    * Cloud Computing: Basic understanding of cloud platforms for data analytics.
-    * Data Quality: Knowledge of data accuracy, completeness, and consistency principles.
+* Data Modeling: Star Schema and Snowflake Schema design.
+* ETL Processes: Implementation of Extract, Transform, Load methodologies.
+* Cloud Computing: Basic understanding of cloud platforms for data analytics.
+* Data Quality: Knowledge of data accuracy, completeness, and consistency principles.
 
 ✅ **Statistics & Data Analysis:**
     * Data Exploration: Identification of patterns and trends in datasets.
