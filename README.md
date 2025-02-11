@@ -88,16 +88,17 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 ## Projects
 
 ### **SQL**
-  - ### *MuseumDB: Mini Database for Museum Management*
-    A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.
-    
-    **Code:** <a href="https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB" target="_blank">MuseumDB Project Files </a>
 
   - ### *OutdoorConnect: Social Media Database for Outdoor Enthusiasts*
 
     A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.
 
     **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
+
+  - ### *MuseumDB: Mini Database for Museum Management*
+    A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.
+    
+    **Code:** <a href="https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB" target="_blank">MuseumDB Project Files </a>
 
   - ### *DVDRental: DML, TCL, DDL and functions designed for the DVDRental database*
 
