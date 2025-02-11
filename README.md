@@ -58,8 +58,8 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     *   PL/pgSQL: custom function development and implementation.
 
 *   **Python:**
-    *   Pandas, NumPy: Data transformation and manipulation.
-    *   Seaborn, Matplotlib: Data visualization.
+    *   Pandas, NumPy: Data cleaning, transformation, and analysis.
+    *   Seaborn, Matplotlib: Creating visualizations to communicate insights and support decision-making.
 
 *   **R:**
     *   tidyverse: Data manipulation and wrangling.
