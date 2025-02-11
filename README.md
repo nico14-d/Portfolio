@@ -79,9 +79,9 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 * Data Quality: Knowledge of data accuracy, completeness, and consistency principles.
 
 ✅ **Statistics & Data Analysis:**
-    * Data Exploration: Identification of patterns and trends in datasets.
-    * Optimization: Application of optimization techniques.
-    * Decision Modeling: Building models to support data-driven decisions.
+* Data Exploration: Identification of patterns and trends in datasets.
+* Optimization: Application of optimization techniques.
+* Decision Modeling: Building models to support data-driven decisions.
 
 ---
 
