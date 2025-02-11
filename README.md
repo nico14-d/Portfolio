@@ -52,15 +52,26 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 ## My Skills
 
-✅ **Programming & Databases:**  
-   - **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
-   - **SQL** (PostgreSQL, PL/pgSQL)  
-   - **R** (Tidyverse, ggplot2)  
+**Programming & Databases:**  
+   - **SQL**:
+       - PostgreSQL - data extraction, calculations, CTEs, complex queries, window functions, frames
+       - PL/pgSQL - functions
+         
+  - **Python**:
+       - Pandas, Numpy - data transformation
+       - Seaborn, Matplotlib - data visualization
+         
+   - **R**:
+       - tidyverse - data manipulation
+       - ggplot2 - data visualization  
 
-✅ **BI & Data Visualization:**  
-   - **Excel (VBA)**  
+**BI & Data Visualization:**  
+   - **Excel (VBA)**:
+       - pivot tables
+       - conditional formating
+       - macros
 
-✅ **Statistics & Data Analysis:**  
+**Statistics & Data Analysis:**  
    - Data exploration  
    - Optimization  
    - Decision modeling  
