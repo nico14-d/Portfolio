@@ -49,32 +49,39 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 
 ---
-
 ## My Skills
 
-**Programming & Databases:**  
-   - **SQL**:
-       - PostgreSQL - data extraction, calculations, CTEs, complex queries, window functions, frames
-       - PL/pgSQL - functions
-         
-  - **Python**:
-       - Pandas, Numpy - data transformation
-       - Seaborn, Matplotlib - data visualization
-         
-   - **R**:
-       - tidyverse - data manipulation
-       - ggplot2 - data visualization  
+✅ **Programming & Databases:**
 
-**BI & Data Visualization:**  
-   - **Excel (VBA)**:
-       - pivot tables
-       - conditional formating
-       - macros
+*   **SQL:**
+    *   PostgreSQL: Data extraction, complex calculations, CTEs, advanced queries, window functions, and frames.
+    *   PL/pgSQL: Function development and implementation.
 
-**Statistics & Data Analysis:**  
-   - Data exploration  
-   - Optimization  
-   - Decision modeling  
+*   **Python:**
+    *   Pandas, NumPy: Data transformation and manipulation.
+    *   Seaborn, Matplotlib: Data visualization.
+
+*   **R:**
+    *   tidyverse: Data manipulation and wrangling.
+    *   ggplot2: Data visualization.
+
+✅ **BI & Data Visualization:**
+
+*   **Excel (VBA):**
+    *   Pivot table creation and analysis.
+    *   Conditional formatting for data highlighting.
+    *   Macro development for task automation.
+
+✅ **Data Warehousing:**
+    *   Data Modeling: Star Schema and Snowflake Schema design.
+    *   ETL Processes: Implementation of Extract, Transform, Load methodologies.
+    *   Cloud Computing: Basic understanding of cloud platforms for data analytics.
+    *   Data Quality: Knowledge of data accuracy, completeness, and consistency principles.
+
+✅ **Statistics & Data Analysis:**
+    * Data Exploration: Identification of patterns and trends in datasets.
+    * Optimization: Application of optimization techniques.
+    * Decision Modeling: Building models to support data-driven decisions.
 
 ---
 
