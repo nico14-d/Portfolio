@@ -97,7 +97,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
     A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.
 
-    **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnect)
+    **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
 
   - ### *DVDRental: DML, TCL, DDL and functions designed for the DVDRental database*
 
