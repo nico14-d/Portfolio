@@ -55,7 +55,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 *   **SQL:**
     *   PostgreSQL: Data extraction, complex calculations, CTEs, advanced queries, window functions, and frames.
-    *   PL/pgSQL: Function development and implementation.
+    *   PL/pgSQL: custom function development and implementation.
 
 *   **Python:**
     *   Pandas, NumPy: Data transformation and manipulation.
