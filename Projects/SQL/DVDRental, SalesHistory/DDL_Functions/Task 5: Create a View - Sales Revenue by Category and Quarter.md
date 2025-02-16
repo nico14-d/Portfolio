@@ -20,3 +20,6 @@ The view updates automatically with new data, ensuring real-time analytics for r
 ### Why two solutions?  
 - The standard query approach is efficient and straightforward for generating a real-time view.  
 - The CTE approach offers **better query organization** and allows **future modifications** (e.g., tracking past quarters).  
+
+
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DDL_Functions/task_5_script.sql)  
