@@ -45,11 +45,11 @@ This project includes DDL (Data Definition Language) operations and SQL function
 
 **Core Implementations:**
 
-*   Sales Revenue View (sales_revenue_by_category_qtr)
-*   Revenue Function (get_sales_revenue_by_category_qtr)
-*   Popular Movies by Country (most_popular_films_by_countries)
-*   Movie Search Function (films_in_stock_by_title)
-*   New Movie Procedure (new_movie)
+*   [Sales Revenue View (sales_revenue_by_category_qtr)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%205:%20Create%20a%20View%20-%20Sales%20Revenue%20by%20Category%20and%20Quarter.md)
+*   [Revenue Function (get_sales_revenue_by_category_qtr)](... *tutaj wstaw odpowiedni link do pliku z funkcjami* ...)
+*   [Popular Movies by Country (most_popular_films_by_countries)](... *tutaj wstaw odpowiedni link do pliku z funkcjami* ...)
+*   [Movie Search Function (films_in_stock_by_title)](... *tutaj wstaw odpowiedni link do pliku z funkcjami* ...)
+*   [New Movie Procedure (new_movie)](... *tutaj wstaw odpowiedni link do pliku z funkcjami* ...)
 
 **How to Use?**
 
