@@ -15,3 +15,6 @@ The function allows querying **all movies containing a specified keyword** and r
    - Generates row numbers in the final result.  
 4. A `LEFT JOIN` ensures that all matching movies are returned even if they have no rental history.  
 5. If no films match the pattern, the function raises a **notice message** informing the user.  
+
+
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DDL_Functions/task_8_sctipt.sql)  
