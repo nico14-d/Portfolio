@@ -15,3 +15,6 @@ This task retrieves all animation movies released between 2017 and 2019 with a r
 ## Why two solutions?
 - The **JOIN approach** is generally more **efficient**, as it directly connects tables.
 - The **subquery approach** is easier to read but can be **less efficient** in large datasets.
+
+
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/task_4_script.sql)
