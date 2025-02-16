@@ -27,7 +27,7 @@ This section contains DML (Data Manipulation Language) queries and TCL (Transact
 **How to Run the Scripts?**
 The queries are designed for PostgreSQL and can be executed in any SQL environment that supports PostgreSQL syntax.
 
-[**See DML & TCL Code >**](DML_TCL)  (Create Folder)
+[**See DML & TCL Code >**](DML_TCL)  
 
 ---
 
