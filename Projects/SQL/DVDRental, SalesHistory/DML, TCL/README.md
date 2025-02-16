@@ -1,42 +1,10 @@
-# DML & TCL Queries for Data Analysis and Transactions  
+# DML & TCL Queries for Data Analysis and Transactions (DVDRental)
 
-## **Project Overview**  
-This section contains DML (Data Manipulation Language) queries and TCL (Transaction Control Language) operations designed for the DVDRental database.  
-The goal is to analyze rental data, manage transactions, and ensure data consistency, showcasing expertise in data retrieval, filtering, aggregation, and transactional integrity.  
+This folder contains DML (Data Manipulation Language) queries and TCL (Transaction Control Language) operations for analyzing the DVDRental database.
 
-## **Key Features & Technologies**  
+**Table of Contents:**
 
-- PostgreSQL DML & TCL Queries – Structured queries utilizing `SELECT`, `INSERT`, `UPDATE`, `DELETE`, and transaction control (`BEGIN`, `COMMIT`, `ROLLBACK`).  
-- Movie & Rental Analysis – Queries analyzing rental revenue, movie popularity, and customer rental behavior.  
-- Transaction Management – Ensures data integrity using transactions for operations like renting movies and processing payments.  
-- Data Aggregation & Filtering – Uses `GROUP BY`, `HAVING`, `ORDER BY` to summarize key insights.  
-- Handling NULL Values & Data Formatting – Applies `COALESCE()`, `STRING_AGG()` for robust data processing.  
-- Optimized Queries – Implements CTEs (Common Table Expressions) and window functions (`RANK()`, `ROW_NUMBER()`, `FETCH FIRST n ROWS WITH TIES`).  
-
-## **Core SQL Queries & Transactions**  
-
-### Data Analysis (DML)
-- **Top 5 Most Rented Movies and Expected Audience Age**  
-  - Identifies the five most rented movies and determines their expected audience age using the Motion Picture Association film rating system.  
-  - Uses CTEs, `RANK()`, and `FETCH FIRST 5 ROWS WITH TIES` to handle ranking and ties efficiently.  
-
-- **Revenue Earned by Each Rental Store Since March 2017**  
-  - Calculates total rental revenue per store since March 2017 using `SUM()`.  
-  - Uses joins between payment, rental, inventory, and store tables.  
-  - Applies `COALESCE()` to handle NULL values in addresses.  
-
-- **Animation Movies (2017-2019) with a Rental Rate Greater than 1**  
-  - Retrieves all animation movies released between 2017-2019 with a rental rate greater than 1.  
-  - Implements two approaches: using `JOINs` and subqueries to demonstrate different querying techniques.  
-
-### Transaction Management (TCL)
-- **Rent Favorite Movies and Process Payment**  
-  - Simulates a movie rental process where a customer rents movies and makes a payment.  
-  - Uses a transaction (`BEGIN; COMMIT;`) to ensure that rentals and payments are processed together.  
-  - Dynamically retrieves inventory, customer, and staff data using CTEs.  
-  - Uses `WHERE NOT EXISTS` to prevent duplicate records.  
-
-## **How to Run the Scripts?**  
-
-The queries are designed for **PostgreSQL** and can be executed in any SQL environment that supports PostgreSQL syntax.  
-
+*   [Top 5 Most Rented Movies and Expected Audience Age](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/Task%201%3A%20Top%205%20Most%20Rented%20Movies%20and%20Expected%20Audience%20Age.md)
+*   [Revenue Earned by Each Rental Store Since March 2017](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/Task%202%3A%20Revenue%20Earned%20by%20Each%20Rental%20Store%20Since%20March%202017.md)
+*   [Animation Movies (2017-2019) with a Rental Rate Greater than 1](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/Task%204%3A%20Animation%20Movies%20(2017-2019).md)
+*   [Rent Favorite Movies and Process Payment](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/Task%203%3A%20Rent%20Favorite%20Movies%20and%20Process%20Payment.md)
