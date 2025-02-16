@@ -13,3 +13,6 @@ A film's popularity is determined by the number of times it has been rented in e
 4. Counts rentals for each film in each country.  
 5. Uses a subquery in `HAVING` to return only films with the highest rental count per country.  
 6. Orders results alphabetically by country and film title.  
+
+
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DDL_Functions/task_7_script.sql)  
