@@ -44,8 +44,8 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
   - **Excel / Google Sheets**
     - *(Currently working on Excel-based analytics projects!)*
   - **Academic Research**
-    - [Master's Thesis](#masters-thesis-effective-numerical-methods-for-solving-hyperbolic-partial-differential-equations-describing-transient-gas-flow)
-    - [Bachelor's Thesis](#bachelors-thesis-analysis-of-sluice-gate-capacity-for-irrigation-water-intakes)
+    - [Master's Thesis: Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow](#masters-thesis-effective-numerical-methods-for-solving-hyperbolic-partial-differential-equations-describing-transient-gas-flow)
+    - [Bachelor's Thesis: Analysis of sluice gate capacity for irrigation water intakes](#bachelors-thesis-analysis-of-sluice-gate-capacity-for-irrigation-water-intakes)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -115,9 +115,15 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     **Code:** (https://www.kaggle.com/code/nicolad14/google-data-analytics-capstone-case-study-1)
 
 
-### **Academic Research**
-- [**Master's Thesis:**](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Master's%20Thesis%20Summary.pdf) *Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.*
-- [**Bachelor's Thesis:**](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Bachelor's%20Thesis%20Summary.pdf) *Analysis of sluice gate capacity for irrigation water intakes.*
+### Academic Research
+
+#### Master's Thesis: Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.
+
+[Link to Master's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Master's%20Thesis%20Summary.pdf)
+
+#### Bachelor's Thesis: Analysis of sluice gate capacity for irrigation water intakes.
+
+[Link to Bachelor's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Bachelor's%20Thesis%20Summary.pdf)
 
 ---
 
