@@ -14,3 +14,6 @@ Unlike a static view, this function allows users to query revenue from any quart
 4. Filters payments to include only transactions from the specified quarter and year.  
 5. Aggregates total revenue per category using `SUM(p.amount)`.  
 6. Excludes categories with zero revenue using `HAVING SUM(p.amount) > 0`.  
+
+
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DDL_Functions/task_6_script.sql) 
