@@ -50,7 +50,8 @@ This project includes DDL (Data Definition Language) operations and SQL function
 )
 *   [Popular Movies by Country (most_popular_films_by_countries)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%207:%20Create%20a%20Function%20-%20Get%20Most%20Popular%20Films%20by%20Country.md
 )
-*   [Movie Search Function (films_in_stock_by_title)](... *tutaj wstaw odpowiedni link do pliku z funkcjami* ...)
+*   [Movie Search Function (films_in_stock_by_title)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%208:%20Create%20a%20Function%20-%20Get%20Movies%20in%20Stock%20by%20Title%20Pattern.md
+)
 *   [New Movie Procedure (new_movie)](... *tutaj wstaw odpowiedni link do pliku z funkcjami* ...)
 
 **How to Use?**
