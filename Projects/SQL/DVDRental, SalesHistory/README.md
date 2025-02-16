@@ -18,11 +18,11 @@ This section contains DML (Data Manipulation Language) queries and TCL (Transact
 **Core SQL Queries & Transactions:**
 
 *   **Data Analysis (DML)**
-    *   Top 5 Most Rented Movies and Expected Audience Age
-    *   Revenue Earned by Each Rental Store Since March 2017
-    *   Animation Movies (2017-2019) with a Rental Rate Greater than 1
+    *   [Top 5 Most Rented Movies and Expected Audience Age](DML_TCL/Top_5_Most_Rented_Movies_and_Expected_Audience_Age.sql)
+    *   [Revenue Earned by Each Rental Store Since March 2017](DML_TCL/Revenue_Earned_by_Each_Rental_Store_Since_March_2017.sql)
+    *   [Animation Movies (2017-2019) with a Rental Rate Greater than 1](DML_TCL/Animation_Movies_2017_2019_with_a_Rental_Rate_Greater_than_1.sql)
 *   **Transaction Management (TCL)**
-    *   Rent Favorite Movies and Process Payment
+    *   [Rent Favorite Movies and Process Payment](DML_TCL/Rent_Favorite_Movies_and_Process_Payment.sql)
 
 **How to Run the Scripts?**
 The queries are designed for PostgreSQL and can be executed in any SQL environment that supports PostgreSQL syntax.
