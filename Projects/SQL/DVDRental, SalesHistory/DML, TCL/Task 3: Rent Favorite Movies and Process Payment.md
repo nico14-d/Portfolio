@@ -31,3 +31,6 @@ This task simulates renting specific movies from the store and processing the co
   - No hardcoded values for `customer_id`, `staff_id`, or `inventory_id`.
 - **CTEs improve readability**  
   - `me` and `rental_data` separate logic for better maintainability.
+
+
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/task_3_script.sql) 
