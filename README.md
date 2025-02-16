@@ -87,34 +87,42 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 ---
 
-## Projects
+### **Projects**
 
-### **SQL**
+#### **SQL**
 
   - #### OutdoorConnect: Social Media Database for Outdoor Enthusiasts
 
-    **Problem:**  Existing social media platforms lack specific features for outdoor sports enthusiasts, making it difficult to connect with like-minded individuals and organize activities.
+    **Problem:** Existing social media platforms lack specific features for outdoor sports enthusiasts, making it difficult to connect with like-minded individuals and organize activities.
 
     **Solution:** Developed a fully relational database to manage user profiles, outdoor events, groups, and activities, creating a dedicated social platform for outdoor enthusiasts.
 
     [Link to OutdoorConnect Project Files](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
 
-  - ### *MuseumDB: Mini Database for Museum Management*
-    A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.
-    
-    **Code:** <a href="https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB" target="_blank">MuseumDB Project Files </a>
+  - #### MuseumDB: Mini Database for Museum Management
 
-  - ### *DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases*
+    **Problem:** Managing museum collections and exhibits efficiently requires a well-structured database that can track historical items, exhibitions, staff, and visitors.
 
-    **Code:** [`DVDRental & SalesHistory Exercises`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental%2C%20SalesHistory)
+    **Solution:** Designed and implemented a PostgreSQL-based mini database to manage museum collections and exhibits, including inventory, exhibitions, employee records, and visitor ticketing.
 
+    [Link to MuseumDB Project Files](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB)
 
-### **R**
-  - ### *Cyclistic Bike Share Analysis:*
+  - #### DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases
 
-    Data-driven insights for business growth using R and data visualization tools.
+    **Problem:**  Learning SQL requires hands-on experience with real-world databases and various query techniques, including data manipulation, transaction management, and function creation.
 
-    **Code:** (https://www.kaggle.com/code/nicolad14/google-data-analytics-capstone-case-study-1)
+    **Solution:**  Implemented a series of SQL exercises on the publicly available DVDRental and SalesHistory databases, showcasing skills in data retrieval, filtering, aggregation, transaction control, and function design.
+
+    [Link to DVDRental & SalesHistory Exercises](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental%2C%20SalesHistory)
+
+#### **R**
+  - #### Cyclistic Bike Share Analysis:
+
+    **Problem:** Bike share companies need to analyze ridership data to identify trends, optimize resource allocation, and improve customer satisfaction.
+
+    **Solution:** Conducted a data-driven analysis of Cyclistic bike share data using R and data visualization tools to identify key insights for business growth and operational improvements.
+
+    [Link to Cyclistic Bike Share Analysis](https://www.kaggle.com/code/nicolad14/google-data-analytics-capstone-case-study-1)
 
 
 ### Academic Research
