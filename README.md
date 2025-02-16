@@ -125,7 +125,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     [Link to Cyclistic Bike Share Analysis](https://www.kaggle.com/code/nicolad14/google-data-analytics-capstone-case-study-1)
 
 
-### Academic Research
+#### **Academic Research**
 
 <!-- Ukryte nagłówki dla kotwic -->
 <a id="masters-thesis"></a>
