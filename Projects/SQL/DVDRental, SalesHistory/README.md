@@ -58,4 +58,4 @@ This project includes DDL (Data Definition Language) operations and SQL function
 *   Execute the DDL script (create_sales_revenue_by_category_qtr.sql) to create the view.
 *   Run the function scripts (functions.sql) to enable custom data queries.
 
-[**See DDL & Functions Code >**](DDL_Functions) (Create Folder)
+[**See DDL & Functions Code >**](DDL_Functions)
