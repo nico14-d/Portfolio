@@ -25,4 +25,6 @@ This task identifies the five most rented movies and determines their expected a
 - The **`RANK()` function** ensures that **all movies tied at the fifth position are included**, making it more accurate for handling ties.
 - The **`FETCH FIRST 5 ROWS WITH TIES`** method is the simplest and most efficient when **only retrieving top-ranked records**.
 
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/task_1_script.sql)  
+
 All three approaches produce the same results but differ in complexity and use case. The choice depends on **performance needs** and **query readability**.
