@@ -91,11 +91,13 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 ### **SQL**
 
-  - ### *OutdoorConnect: Social Media Database for Outdoor Enthusiasts*
+  - #### OutdoorConnect: Social Media Database for Outdoor Enthusiasts
 
-    A fully relational database for an outdoor sports social platform, including user profiles, events, groups, and activities.
+    **Problem:**  Existing social media platforms lack specific features for outdoor sports enthusiasts, making it difficult to connect with like-minded individuals and organize activities.
 
-    **Code:** [`OutdoorConnect Project Files`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
+    **Solution:** Developed a fully relational database to manage user profiles, outdoor events, groups, and activities, creating a dedicated social platform for outdoor enthusiasts.
+
+    [Link to OutdoorConnect Project Files](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
 
   - ### *MuseumDB: Mini Database for Museum Management*
     A PostgreSQL-based mini database for museum management, designed with conceptual, logical, and physical modeling techniques.
