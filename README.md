@@ -33,7 +33,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
   - **SQL**
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
-    - [DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases](#dvdrental-dml-tcl-ddl-and-functions-designed-for-the-dvdrental-database)
+    - [DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases](#DVDRental-Sales-History:-DML,-TCL,-DDL-and-functions-designed-for-the-DVDRental-and-Sales-History-databases)
     - Data Warehouse Project:  *My most ambitious SQL project currently under development. It focuses on designing and implementing a fully functional data warehouse solution!*
   - **R**
     - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
@@ -102,7 +102,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
   - ### *DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases*
 
-    **Code:** [`DVDRental`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental%2C%20SalesHistory)
+    **Code:** [`DVDRental & SalesHistory Exercises`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental%2C%20SalesHistory)
 
 
 ### **R**
