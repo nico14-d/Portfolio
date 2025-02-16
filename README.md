@@ -100,13 +100,9 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     
     **Code:** <a href="https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB" target="_blank">MuseumDB Project Files </a>
 
-  - ### *DVDRental: DML, TCL, DDL and functions designed for the DVDRental database*
+  - ### *DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases*
 
-    **Code:** [`DVDRental`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental)
-
-  - ### *SalesHistory: Window Functions and Frames*
-
-    **Code:** [`SalesHistory`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/SalesHistory)
+    **Code:** [`DVDRental`](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental%2C%20SalesHistory)
 
 
 ### **R**
