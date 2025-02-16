@@ -32,7 +32,7 @@ The queries are designed for PostgreSQL and can be executed in any SQL environme
 
 ## SQL DDL & Functions for Data Management and Analysis (DVDRental)
 
-This project includes DDL (Data Definition Language) operations and SQL functions designed for the DVDRental database. The goal is to demonstrate expertise in creating views, functions, and stored procedures that enhance database efficiency, ensure data integrity, and optimize querying for analytical and transactional use cases.
+This section includes DDL (Data Definition Language) operations and SQL functions designed for the DVDRental database. The goal is to demonstrate expertise in creating views, functions, and stored procedures that enhance database efficiency, ensure data integrity, and optimize querying for analytical and transactional use cases.
 
 **Key Features & Technologies:**
 
@@ -45,12 +45,14 @@ This project includes DDL (Data Definition Language) operations and SQL function
 
 **Core Implementations:**
 
-*   [Sales Revenue View (sales_revenue_by_category_qtr)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%205:%20Create%20a%20View%20-%20Sales%20Revenue%20by%20Category%20and%20Quarter.md)
-*   [Revenue Function (get_sales_revenue_by_category_qtr)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%206:%20Create%20a%20Function%20-%20Get%20Sales%20Revenue%20by%20Category%20and%20Quarter.md
+*   **Data Definition (DDL)**
+    *   [Sales Revenue View (sales_revenue_by_category_qtr)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%205:%20Create%20a%20View%20-%20Sales%20Revenue%20by%20Category%20and%20Quarter.md)
+*   **Functions (Functions)**
+    *   [Revenue Function (get_sales_revenue_by_category_qtr)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%206:%20Create%20a%20Function%20-%20Get%20Sales%20Revenue%20by%20Category%20and%20Quarter.md
 )
-*   [Popular Movies by Country (most_popular_films_by_countries)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%207:%20Create%20a%20Function%20-%20Get%20Most%20Popular%20Films%20by%20Country.md
+    *   [Popular Movies by Country (most_popular_films_by_countries)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%207:%20Create%20a%20Function%20-%20Get%20Most%20Popular%20Films%20by%20Country.md
 )
-*   [Movie Search Function (films_in_stock_by_title)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%208:%20Create%20a%20Function%20-%20Get%20Movies%20in%20Stock%20by%20Title%20Pattern.md
+    *   [Movie Search Function (films_in_stock_by_title)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%208:%20Create%20a%20Function%20-%20Get%20Movies%20in%20Stock%20by%20Title%20Pattern.md
 )
 
 **How to Use?**
