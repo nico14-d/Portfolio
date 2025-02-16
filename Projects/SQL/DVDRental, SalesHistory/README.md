@@ -52,7 +52,6 @@ This project includes DDL (Data Definition Language) operations and SQL function
 )
 *   [Movie Search Function (films_in_stock_by_title)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental,%20SalesHistory/DDL_Functions/Task%208:%20Create%20a%20Function%20-%20Get%20Movies%20in%20Stock%20by%20Title%20Pattern.md
 )
-*   [New Movie Procedure (new_movie)](... *tutaj wstaw odpowiedni link do pliku z funkcjami* ...)
 
 **How to Use?**
 
