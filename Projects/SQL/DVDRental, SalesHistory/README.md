@@ -22,7 +22,7 @@ This section contains DML (Data Manipulation Language) queries and TCL (Transact
     *   [Revenue Earned by Each Rental Store Since March 2017](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/Task%202%3A%20Revenue%20Earned%20by%20Each%20Rental%20Store%20Since%20March%202017.md)
     *   [Animation Movies (2017-2019) with a Rental Rate Greater than 1](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/Task%204%3A%20Animation%20Movies%20(2017-2019).md)
 *   **Transaction Management (TCL)**
-    *   [Rent Favorite Movies and Process Payment](DML_TCL/Rent_Favorite_Movies_and_Process_Payment.sql)
+    *   [Rent Favorite Movies and Process Payment](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/Task%203%3A%20Rent%20Favorite%20Movies%20and%20Process%20Payment.md)
 
 **How to Run the Scripts?**
 The queries are designed for PostgreSQL and can be executed in any SQL environment that supports PostgreSQL syntax.
