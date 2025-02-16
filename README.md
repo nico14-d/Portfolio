@@ -44,8 +44,8 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
   - **Excel / Google Sheets**
     - *(Currently working on Excel-based analytics projects!)*
   - **Academic Research**
-    - [Master's Thesis](#effective-numerical-methods-for-solving-hyperbolic-partial-differential-equations-describing-transient-gas-flow)
-    - [Bachelor's Thesis](#bachelors-thesis)
+    - [Master's Thesis](#masters-thesis-effective-numerical-methods-for-solving-hyperbolic-partial-differential-equations-describing-transient-gas-flow)
+    - [Bachelor's Thesis](#bachelors-thesis-analysis-of-sluice-gate-capacity-for-irrigation-water-intakes)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
