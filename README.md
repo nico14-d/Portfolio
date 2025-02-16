@@ -87,7 +87,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 ---
 
-### **Projects**
+## **Projects**
 
 #### **SQL**
 
