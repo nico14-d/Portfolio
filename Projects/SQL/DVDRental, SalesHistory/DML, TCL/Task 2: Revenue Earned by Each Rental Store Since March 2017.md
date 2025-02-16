@@ -23,3 +23,6 @@ This task retrieves the total revenue earned by each rental store from March 201
 - The CTE approach improves readability and allows easier modifications.
 - The standard query is slightly more efficient for straightforward aggregations.
 - Both approaches produce the same results, but CTE is preferable for complex queries requiring reuse of intermediate results.
+
+
+[**See Code >**](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/DVDRental%2C%20SalesHistory/DML%2C%20TCL/task_2_script.sql)  
