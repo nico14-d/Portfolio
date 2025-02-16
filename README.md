@@ -131,12 +131,12 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 <a id="masters-thesis"></a>
   - #### Master's Thesis: Effective numerical methods for solving hyperbolic partial differential equations describing transient gas flow.
 
-[Link to Master's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Master's%20Thesis%20Summary.pdf)
+    [Link to Master's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Master's%20Thesis%20Summary.pdf)
 
 <a id="bachelors-thesis"></a>
   - #### Bachelor's Thesis: Analysis of sluice gate capacity for irrigation water intakes.
 
-[Link to Bachelor's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Bachelor's%20Thesis%20Summary.pdf)
+    [Link to Bachelor's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Bachelor's%20Thesis%20Summary.pdf)
 
 ---
 
