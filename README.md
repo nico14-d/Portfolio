@@ -15,6 +15,8 @@ Since making this shift, I have been actively expanding my expertise—completin
 
 I enjoy the process of extracting valuable insights from raw data, transforming complex information into meaningful solutions. Whether through statistical analysis, machine learning models, or data visualization, I thrive on uncovering patterns that drive better decision-making.
 
+
+
 ### Key Strengths
 
 *   **Strong analytical thinking & problem-solving skills:** I possess a strong foundation in analytical thinking, honed through my Master's degree in Gas Engineering and extensive experience in project management. I enjoy tackling complex problems, identifying patterns in data, and developing data-driven solutions. My passion for optimization and attention to detail allow me to identify opportunities for improvement and drive efficiency in various processes.
