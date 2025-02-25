@@ -63,7 +63,7 @@ This folder contains various SQL exercises performed on the publicly available D
 
 **Key Skills Demonstrated:** Data Extraction, Data Transformation, Data Loading, SQL Scripting, Function & Procedure Design, Database Administration.
 
-[**Explore Exercises >**](DVDRental_SalesHistory) (This link will point to the DVDRental_SalesHistory folder)
+[**Explore Exercises >**](DVDRental_SalesHistory) (This link will point to the DVDRental and SalesHistory folder)
 
 ---
 
