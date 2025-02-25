@@ -9,6 +9,7 @@ I have always been fascinated by numbers, patterns, and data-driven decision-mak
 
 Since making this shift, I have been actively expanding my expertise—completing specialized courses, working on real-world data projects, and gaining hands-on experience with SQL, Python, and statistical modeling. To deepen my knowledge even further, I have enrolled in a postgraduate program in Data Science: Advanced Data Analytics at the Wrocław University of Economics.
 
+
 ### Why Data?
 
 I enjoy the process of extracting valuable insights from raw data, transforming complex information into meaningful solutions. Whether through statistical analysis, machine learning models, or data visualization, I thrive on uncovering patterns that drive better decision-making.
@@ -24,6 +25,7 @@ I enjoy the process of extracting valuable insights from raw data, transforming 
 *   **Teaching complex concepts in a simple way:** 10+ years of experience teaching Fluid Mechanics at the academic level, helping students grasp complex technical concepts. This experience has honed my ability to communicate technical information clearly and concisely to both technical and non-technical audiences.
 
 *   **Continuous learning & development:** Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate, constantly refining my skills. I am committed to staying up-to-date with the latest trends and technologies in data analytics and data science.
+
 
 ### Beyond Data
 
