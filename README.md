@@ -89,6 +89,8 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 ## **Projects**
 
+[Direct link to Project Folder](https://github.com/nico14-d/Portfolio/tree/main/Projects)
+
 #### **SQL**
 
   - #### OutdoorConnect: Social Media Database for Outdoor Enthusiasts
