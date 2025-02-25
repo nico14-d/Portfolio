@@ -9,7 +9,7 @@ I have always been fascinated by numbers, patterns, and data-driven decision-mak
 
 Since making this shift, I have been actively expanding my expertise—completing specialized courses, working on real-world data projects, and gaining hands-on experience with SQL, Python, and statistical modeling. To deepen my knowledge even further, I have enrolled in a postgraduate program in Data Science: Advanced Data Analytics at the Wrocław University of Economics.
 
-
+<br>
 
 ### Why Data?
 
