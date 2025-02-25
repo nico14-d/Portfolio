@@ -46,7 +46,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases](#dvdrental-sales-history-dml-tcl-ddl-and-functions-designed-for-the-dvdrental-and-sales-history-databases)
-    - [Data Warehouse for ActiveGear]
+    - [Data Warehouse for ActiveGear](#activegear-data-warehouse-dwh-for-activegear-a-sporting-goods-retailer)
 
       My most ambitious SQL project currently under development. It focuses on designing and implementing a fully functional data warehouse solution!*
   - **R**
