@@ -46,7 +46,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](#outdoorconnect-social-media-database-for-outdoor-enthusiasts)
     - [MuseumDB: Mini Database for Museum Management](#museumdb-mini-database-for-museum-management)
     - [DVDRental, Sales History: DML, TCL, DDL and functions designed for the DVDRental and Sales History databases](#dvdrental-sales-history-dml-tcl-ddl-and-functions-designed-for-the-dvdrental-and-sales-history-databases)
-    - Data Warehouse Project:
+    - [Data Warehouse for ActiveGear]
 
       My most ambitious SQL project currently under development. It focuses on designing and implementing a fully functional data warehouse solution!*
   - **R**
@@ -112,6 +112,18 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
     **Solution:** Developed a fully relational database to manage user profiles, outdoor events, groups, and activities, creating a dedicated social platform for outdoor enthusiasts.
 
     [Link to OutdoorConnect Project Files](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
+
+  - #### ActiveGear: Data Warehouse (DWH) for ActiveGear, a sporting goods retailer
+
+    **Problem:** ActiveGear lacks a centralized and structured data repository for analyzing sales data across online and in-store channels.
+                  This limits the ability to identify key trends, understand customer behavior, and make data-driven decisions regarding product offerings, marketing campaigns, and resource allocation.
+                  Existing data is scattered across different systems, making it difficult to perform comprehensive analysis and reporting.
+
+    **Solution:** Developed a Data Warehouse (DWH) solution that consolidates data from online and in-store sales sources into a structured Dimensional Model (Star Schema).
+                  The DWH includes automated ETL processes for data extraction, transformation, and loading, along with a custom logging mechanism for monitoring data quality and performance.
+                  The solution enables ActiveGear to perform in-depth sales data analysis, identify key business insights, and optimize decision-making processes across the organization.
+
+    [Link to ActiveGear DWH Project Files](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/ActiveGear%20DWH)
 
   - #### MuseumDB: Mini Database for Museum Management
 
