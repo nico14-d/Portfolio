@@ -4,7 +4,7 @@ This section showcases my proficiency in SQL, demonstrating my ability to design
 
 ## Projects
 
-[OutdoorConnect: Social Media Database for Outdoor Enthusiasts](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
+### OutdoorConnect: Social Media Database for Outdoor Enthusiasts
 
 This project showcases the design and implementation of a fully relational database for a social media platform dedicated to outdoor sports enthusiasts. Starting from the conceptual model, the database was designed from scratch and implemented as a functional PostgreSQL database to manage user interactions and events.
 
