@@ -27,7 +27,7 @@ This project showcases the design and implementation of a fully relational datab
 *   Messaging System – Implements direct messaging between users.
 *   Notifications – Delivers alerts for friend requests, event invites, and new group activity.
 
-[**See the Code >**](OutdoorConnect) (https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
+[**See the Code >**](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
 
 ---
 
