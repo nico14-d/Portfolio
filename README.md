@@ -8,15 +8,11 @@ Welcome to my portfolio! My name is Nicola, and I’m an engineer with a passion
 I have always been fascinated by numbers, patterns, and data-driven decision-making. Whether optimizing workflows, analyzing project efficiency, or finding insights in complex datasets, I found myself naturally drawn to analytical challenges. This passion led me to transition into Data Analytics & Data Science, where I could fully leverage my technical background and problem-solving skills.
 
 Since making this shift, I have been actively expanding my expertise—completing specialized courses, working on real-world data projects, and gaining hands-on experience with SQL, Python, and statistical modeling. To deepen my knowledge even further, I have enrolled in a postgraduate program in Data Science: Advanced Data Analytics at the Wrocław University of Economics.
-
 <br>
-
 ### Why Data?
 
 I enjoy the process of extracting valuable insights from raw data, transforming complex information into meaningful solutions. Whether through statistical analysis, machine learning models, or data visualization, I thrive on uncovering patterns that drive better decision-making.
-
-
-
+<br>
 ### Key Strengths
 
 *   **Strong analytical thinking & problem-solving skills:** I possess a strong foundation in analytical thinking, honed through my Master's degree in Gas Engineering and extensive experience in project management. I enjoy tackling complex problems, identifying patterns in data, and developing data-driven solutions. My passion for optimization and attention to detail allow me to identify opportunities for improvement and drive efficiency in various processes.
@@ -28,9 +24,7 @@ I enjoy the process of extracting valuable insights from raw data, transforming 
 *   **Teaching complex concepts in a simple way:** 10+ years of experience teaching Fluid Mechanics at the academic level, helping students grasp complex technical concepts. This experience has honed my ability to communicate technical information clearly and concisely to both technical and non-technical audiences.
 
 *   **Continuous learning & development:** Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate, constantly refining my skills. I am committed to staying up-to-date with the latest trends and technologies in data analytics and data science.
-
-
-
+<br>
 ### Beyond Data
 
 Outside of analytics, I’m passionate about hiking in the mountains, practicing calisthenics, and exploring new technologies. I also love reading popular science books and watching snooker matches, analyzing player strategies just as I would a dataset.
