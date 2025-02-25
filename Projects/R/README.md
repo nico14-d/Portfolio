@@ -28,6 +28,8 @@ The findings of this analysis can be used to inform decisions related to pricing
 This analysis serves as a **foundation for data-driven decision-making** for Cyclistic, providing insights to **optimize resource allocation, improve customer experience, 
 and drive revenue growth.** It can be further extended with advanced analytics techniques and integration with external datasets.
 
+[**See the Code >**](https://www.kaggle.com/code/nicolad14/google-data-analytics-capstone-case-study-1) (This link will point to the Kaggle notebook where project was originaly uploaded)
+
 ---
 
 **Note:** This project was one of my early data analysis endeavors. With my current knowledge and experience, I recognize that a more comprehensive analysis would benefit from additional steps, such as:
