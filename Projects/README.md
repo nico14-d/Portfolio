@@ -4,17 +4,17 @@ This section showcases a collection of projects I've been working on as part of 
 
 ## Table of Contents
 
-- [SQL Projects]
+- SQL Projects
   - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
   - [MuseumDB: Mini Database for Museum Management](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB)
   - [DVDRental & SalesHistory Exercises](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental%2C%20SalesHistory)
   - [Data Warehouse Project (Under Development)](#data-warehouse-project-under-development)
-- [R Projects]
+- R Projects
   - [Cyclistic Bike Share Analysis](https://github.com/nico14-d/Portfolio/tree/main/Projects/R)
-- [Python Projects]
-  - [(Work in progress – new projects coming soon!)](#python-projects)
-- [Excel / Google Sheets Projects]
+- Python Projects
+  - (Work in progress – new projects coming soon!)
+- Excel / Google Sheets Projects
   - [(Currently working on Excel-based analytics projects!)](#excel--google-sheets-projects)
-- [Academic Research](https://github.com/nico14-d/Portfolio/tree/main/Projects/Academic%20Research)
-  - [Master's Thesis](#masters-thesis)
-  - [Bachelor's Thesis](#bachelors-thesis)
+- Academic Research
+  - [Master's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Master's%20Thesis%20Summary.pdf)
+  - [Bachelor's Thesis](https://github.com/nico14-d/Portfolio/blob/main/Projects/Academic%20Research/Bachelor's%20Thesis%20Summary.pdf)
