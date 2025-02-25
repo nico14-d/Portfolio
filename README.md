@@ -15,9 +15,15 @@ I enjoy the process of extracting valuable insights from raw data, transforming 
 
 ### Key Strengths
 
-- **Strong technical background & analytical thinking** – I hold a Master’s degree in Gas Engineering from the Warsaw University of Technology.
-- **Teaching complex concepts in a simple way** – 10+ years of experience teaching Fluid Mechanics at the academic level, helping students grasp complex technical concepts.
-- **Continuous learning & development** – Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate, constantly refining my skills.
+*   **Strong analytical thinking & problem-solving skills:** I possess a strong foundation in analytical thinking, honed through my Master's degree in Gas Engineering and extensive experience in project management. I enjoy tackling complex problems, identifying patterns in data, and developing data-driven solutions. My passion for optimization and attention to detail allow me to identify opportunities for improvement and drive efficiency in various processes.
+
+*   **Data-driven decision-making:** I am passionate about leveraging data to inform decision-making and drive business outcomes. I have a proven track record of analyzing complex datasets, identifying key insights, and translating them into actionable strategies. Whether it's optimizing workflows, improving project efficiency, or identifying new market opportunities, I believe that data-driven decision-making is essential for success.
+
+*   **Teamwork & leadership skills:** I have extensive experience working in collaborative environments and leading teams on large-scale projects. I am a strong communicator, adept at building relationships, and skilled at motivating team members to achieve common goals. I am also highly responsible and committed to delivering high-quality results on time and within budget.
+
+*   **Teaching complex concepts in a simple way:** 10+ years of experience teaching Fluid Mechanics at the academic level, helping students grasp complex technical concepts. This experience has honed my ability to communicate technical information clearly and concisely to both technical and non-technical audiences.
+
+*   **Continuous learning & development:** Hands-on experience gained from self-driven projects and Google Data Analytics Professional Certificate, constantly refining my skills. I am committed to staying up-to-date with the latest trends and technologies in data analytics and data science.
 
 ### Beyond Data
 
