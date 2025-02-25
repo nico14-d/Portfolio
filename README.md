@@ -52,7 +52,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
   - **R**
     - [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis)
   - **Python**
-    - *(Work in progress – new projects coming soon!)*
+    - [UK Energy Consumption Prediction using Machine Learning](https://github.com/nico14-d/Portfolio/tree/main/Projects/PYTHON/UK%20Energy%20Consumption%20Prediction%20using%20Machine%20Learning)
   - **Excel / Google Sheets**
     - *(Currently working on Excel-based analytics projects!)*
   - **Academic Research**
