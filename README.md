@@ -55,7 +55,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
       SQL exercises showcasing data manipulation and transaction control.
       
-    - [Data Warehouse for ActiveGear](#activegear-data-warehouse-dwh-for-activegear-a-sporting-goods-retailer)
+    - [Data Warehouse for ActiveGear](#activegear-data-warehouse-dwh-for-activegear-a-sporting-goods-retailer) *(Under development)*
 
       DWH for sporting goods retailer enabling sales data analysis.
       My most ambitious SQL project currently under development. It focuses on designing and implementing a fully functional data warehouse solution!*
