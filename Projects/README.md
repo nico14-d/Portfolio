@@ -8,7 +8,7 @@ This section showcases a collection of projects I've been working on as part of 
   - [OutdoorConnect: Social Media Database for Outdoor Enthusiasts](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/OutdoorConnectDB)
   - [MuseumDB: Mini Database for Museum Management](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/MuseumDB)
   - [DVDRental & SalesHistory Exercises](https://github.com/nico14-d/Portfolio/tree/main/Projects/SQL/DVDRental%2C%20SalesHistory)
-  - [Data Warehouse Project (Under Development)](#data-warehouse-project-under-development)
+  - [Data Warehouse Project (Under Development)](https://github.com/nico14-d/Portfolio/blob/main/Projects/SQL/ActiveGear%20DWH/README.md)
 - R Projects
   - [Cyclistic Bike Share Analysis](https://github.com/nico14-d/Portfolio/tree/main/Projects/R)
 - Python Projects
