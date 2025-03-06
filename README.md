@@ -157,7 +157,7 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
     **Solution:** Conducted a data-driven analysis of Cyclistic bike share data using R and data visualization tools to identify key insights for business growth and operational improvements.
 
-    [Link to Cyclistic Bike Share Analysis](https://www.kaggle.com/code/nicolad14/google-data-analytics-capstone-case-study-1)
+    [Link to Cyclistic Bike Share Analysis](https://github.com/nico14-d/Portfolio/blob/main/Projects/R/README.md)
 
 
 #### **Academic Research**
