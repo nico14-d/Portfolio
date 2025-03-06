@@ -12,7 +12,7 @@ This section showcases a collection of projects I've been working on as part of 
 - R Projects
   - [Cyclistic Bike Share Analysis](https://github.com/nico14-d/Portfolio/tree/main/Projects/R)
 - Python Projects
-  - [UK Energy Consumption Prediction using Machine Learning](https://github.com/nico14-d/Portfolio/tree/main/Projects/PYTHON/UK%20Energy%20Consumption%20Prediction%20using%20Machine%20Learning)
+  - [UK Energy Consumption Prediction using Machine Learning](https://github.com/nico14-d/Portfolio/tree/main/Projects/PYTHON/UK%20Energy%20Consumption%20Prediction%20using%20Machine%20Learning) (Under development)
 - Excel / Google Sheets Projects
   - [(Currently working on Excel-based analytics projects!)](#excel--google-sheets-projects)
 - Academic Research
