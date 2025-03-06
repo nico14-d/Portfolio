@@ -56,7 +56,7 @@ This layer is optimized for analytical queries and reporting.
 
 This DWH provides a **solid foundation for analytical reporting and data-driven decision-making** at ActiveGear. It enables the company to **gain valuable insights into sales performance, customer behavior, and product trends.** Future enhancements could include integration with additional data sources, implementation of more advanced analytics techniques, and the development of interactive dashboards.
 
-[**See the Code >**]([URL do GitHub Repository]) (Replace with the link to your GitHub repository)
+[**See the Code >**]
 
 ---
 
