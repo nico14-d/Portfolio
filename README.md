@@ -9,6 +9,8 @@ I have always been fascinated by numbers, patterns, and data-driven decision-mak
 
 Since making this shift, I have been actively expanding my expertise—completing specialized courses, working on real-world data projects, and gaining hands-on experience with SQL, Python, and statistical modeling. To deepen my knowledge even further, I have enrolled in a postgraduate program in Data Science: Advanced Data Analytics at the Wrocław University of Economics.
 
+CV: [My Actual CV](https://github.com/nico14-d/Portfolio/blob/main/Nicola%20Dudzi%C5%84ski%20CV%20Portfolio.pdf)  
+
 <br>
 
 ### Why Data?
@@ -193,5 +195,6 @@ Outside of analytics, I’m passionate about hiking in the mountains, practicing
 
 Email: nicola.dudzinski@gmail.com  
 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nicola-dudzinski/)  
+CV: [My Actual CV](https://github.com/nico14-d/Portfolio/blob/main/Nicola%20Dudzi%C5%84ski%20CV%20Portfolio.pdf)  
 
 Thanks for stopping by! If you'd like to chat about data analytics, projects, or just share experiences – feel free to reach out! 😊
